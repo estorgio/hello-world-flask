@@ -1,0 +1,5 @@
+# For development
+APP_ENVIRONMENT="development"
+
+# For production
+APP_ENVIRONMENT="production"
